@@ -1,0 +1,37 @@
+<pedidos>
+    <libro>
+        <nombre>El Quijote</nombre>
+        <autor>Cervantes</autor>
+        <precio>20.5</precio>
+    </libro>
+    <libro>
+        <nombre>La Regenta</nombre>
+        <autor>Clarín</autor>
+        <precio>15.0</precio>
+    </libro>
+    <libro>
+        <nombre>El último Secreto</nombre>
+        <autor>Dan Brown</autor>
+        <precio>25.90</precio>
+    </libro>
+    <libro>
+        <nombre>La sangre del padre</nombre>
+        <autor>Alfonso Goizueta</autor>
+        <precio>12.30</precio>
+    </libro>
+	<libro>
+        <nombre>La paciente silenciosa</nombre>
+        <autor>Alex Michaelides</autor>
+        <precio>11.95</precio>
+    </libro>
+	<libro>
+        <nombre>Invisible</nombre>
+        <autor>Eloy Moreno</autor>
+        <precio>15.95</precio>
+    </libro>
+	<libro>
+        <nombre>Hoy</nombre>
+        <autor>Agustina Guerrero</autor>
+        <precio>23.90</precio>
+    </libro>
+</pedidos>

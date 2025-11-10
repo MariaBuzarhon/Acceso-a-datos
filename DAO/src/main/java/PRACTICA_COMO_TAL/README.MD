@@ -1,4 +1,4 @@
-
+VIDEO TUTORIAL: https://www.youtube.com/watch?v=NjY-WA-jeJ8
 
 ### **Persona 1: Gestión de Libros y Autores**
 
@@ -48,5 +48,6 @@
 * Clases utilitarias para conexión JDBC (`ConexionDB`).
 * Pruebas unitarias o de integración para verificar que todo funciona.
 * Documentación del proyecto y UML de clases/relaciones.
+
 
 

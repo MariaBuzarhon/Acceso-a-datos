@@ -1,4 +1,6 @@
 VIDEO TUTORIAL: https://www.youtube.com/watch?v=NjY-WA-jeJ8
+DOCUMENTO COMPARTIDO GOOGLE: https://docs.google.com/document/d/1qEw6swvyt1oWJzMKTnH7JmKSBLMLOb9oMXLF9bMzw0U/edit?usp=sharing
+
 
 ### **Persona 1: Gestión de Libros y Autores**
 
@@ -48,6 +50,7 @@ VIDEO TUTORIAL: https://www.youtube.com/watch?v=NjY-WA-jeJ8
 * Clases utilitarias para conexión JDBC (`ConexionDB`).
 * Pruebas unitarias o de integración para verificar que todo funciona.
 * Documentación del proyecto y UML de clases/relaciones.
+
 
 
 

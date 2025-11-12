@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class ConnectionManager {
     private static final String URL = "jdbc:mysql://localhost:3306/biblioteca_demo?useSSL=false&serverTimezone=UTC";
     private static final String USER = "root";         // 🔹 cambia por tu usuario
-    private static final String PASSWORD = "tu_clave"; // 🔹 cambia por tu contraseña
+    private static final String PASSWORD = "3112004"; // 🔹 cambia por tu contraseña
 
     static {
         try {
